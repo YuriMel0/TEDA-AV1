@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1666835364 source:c:\users\rhuan\desktop\computação faculdade\criandolista\main.cpp
+	<iostream>
+	<string>
+	<t_Dado.h>
+	<t_No.h>
+	<t_Lista.h>
+	<t_Pilha.h>
+
+1666832023 c:\users\rhuan\desktop\computação faculdade\criandolista\include\t_dado.h
+	<iostream>
+
+1666833930 source:c:\users\rhuan\desktop\computação faculdade\criandolista\src\t_dado.cpp
+	"t_Dado.h"
+
+1666833930 source:c:\users\rhuan\desktop\computação faculdade\criandolista\src\t_no.cpp
+	"t_No.h"
+
+1666833366 c:\users\rhuan\desktop\computação faculdade\criandolista\include\t_no.h
+	<t_Dado.h>
+
+1666986029 source:c:\users\rhuan\desktop\computação faculdade\criandolista\src\t_lista.cpp
+	"t_Lista.h"
+	<iostream>
+
+1666835036 c:\users\rhuan\desktop\computação faculdade\criandolista\include\t_lista.h
+	<t_No.h>
+
+1666835354 source:c:\users\rhuan\desktop\computação faculdade\criandolista\src\t_pilha.cpp
+	"t_Pilha.h"
+
+1666834244 c:\users\rhuan\desktop\computação faculdade\criandolista\include\t_pilha.h
+	<t_Lista.h>
+
