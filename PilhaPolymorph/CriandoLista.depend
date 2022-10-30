@@ -32,3 +32,36 @@
 1666834244 c:\users\rhuan\desktop\computação faculdade\criandolista\include\t_pilha.h
 	<t_Lista.h>
 
+1667082488 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\main.cpp
+	<iostream>
+	<string>
+	<t_Dado.h>
+	<t_No.h>
+	<t_Lista.h>
+	<t_Pilha.h>
+
+1667082488 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\include\t_dado.h
+	<iostream>
+
+1667082488 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\include\t_no.h
+	<t_Dado.h>
+
+1667082488 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\include\t_lista.h
+	<t_No.h>
+
+1667082488 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\include\t_pilha.h
+	<t_Lista.h>
+
+1667082488 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\src\t_dado.cpp
+	"t_Dado.h"
+
+1667082488 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\src\t_lista.cpp
+	"t_Lista.h"
+	<iostream>
+
+1667082488 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\src\t_no.cpp
+	"t_No.h"
+
+1667082488 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\pilhapolymorph\src\t_pilha.cpp
+	"t_Pilha.h"
+
