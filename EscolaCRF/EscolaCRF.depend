@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1667243934 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\main.cpp
+	<iostream>
+	<string>
+
+1667245225 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\src\no.cpp
+	"No.h"
+
+1667245079 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\include\no.h
+	"Aluno.h"
+
+1667246300 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\include\aluno.h
+	"Pessoa.h"
+
+1667246455 c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\include\pessoa.h
+
+1667246455 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\src\pessoa.cpp
+	"Pessoa.h"
+
+1667246499 source:c:\users\meloy\documents\projetos_git\trabalho\teda-av1\escolacrf\src\aluno.cpp
+	"Aluno.h"
+	"Pessoa.h"
+
