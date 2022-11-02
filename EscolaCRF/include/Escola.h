@@ -1,20 +1,21 @@
 #ifndef ESCOLA_H
 #define ESCOLA_H
+#include <ListaAlunos.h>
 
 typedef unsigned long long int CNPJ;
 
 class Escola
 {
     public:
-        Escola();
         virtual ~Escola();
-        void printDadosEscola(CNPJ);
-
+        void printDadosEscola();
+        void cadastra(CNPJ, ListaAlunos, string);
     protected:
-        CNPJ cnpj;
-        ListaAlunos<Aluno>;
 
     private:
+        string nome;
+        CNPJ cnpj;
+        ListaAlunos lista;
 };
 
 #endif // ESCOLA_H

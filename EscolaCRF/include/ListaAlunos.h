@@ -3,22 +3,30 @@
 #include "No.h"
 #include <string>
 
-template <typename T>
+
+class Aluno;
+
 class ListaAlunos
 {
     public:
         ListaAlunos();
         virtual ~ListaAlunos();
-        T cadastraAluno(T Aluno);
-        void excluirAluno(T Aluno);
-        void printAluno(T Aluno);
+        void InsereAluno(Aluno);
+        void InsereAluno(No*);
+        void printAluno(Aluno);
         void printAlunos();
-        void atualizaDados(T Aluno);
+        void atualiza_categoria(Aluno);
+        void atualiza_idade(Aluno, int);
+        void RemoveAluno(Aluno);
+        int get_tam(){return tam;};
+        Aluno get_Aluno(MATRICULA);
 
     protected:
-        No<T>* inicio;
+        No* inicio;
 
     private:
+        friend class Aluno;
+        int tam;
 };
 
 #endif // LISTAALUNOS_H

@@ -35,14 +35,18 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Aluno.h" />
+		<Unit filename="include/Dado.h" />
 		<Unit filename="include/Escola.h" />
 		<Unit filename="include/ListaAlunos.h" />
+		<Unit filename="include/Menu.h" />
 		<Unit filename="include/No.h" />
 		<Unit filename="include/Pessoa.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Aluno.cpp" />
+		<Unit filename="src/Dado.cpp" />
 		<Unit filename="src/Escola.cpp" />
 		<Unit filename="src/ListaAlunos.cpp" />
+		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/No.cpp" />
 		<Unit filename="src/Pessoa.cpp" />
 		<Extensions>

@@ -1,11 +1,7 @@
 #include "No.h"
 
-template <typename T>
-No<T>::No()
+No::No(Aluno a)
 {
-}
-
-template <typename T>
-No<T>::~No()
-{
+    prox = nullptr;
+    dadoAluno = a;
 }
