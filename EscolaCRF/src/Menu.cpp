@@ -14,18 +14,25 @@ void Menu::Executa_opcao_1(ListaAlunos l1)
         string categoria;
         Aluno A;
 
+        cout << "-----------------------------------" << endl;
         cout << "Insira o nome do aluno:" << endl;
         cin >> nome;
+        cout << "-----------------------------------" << endl;
         cout << "Insira a idade do aluno:" << endl;
         cin >> idade;
+        cout << "-----------------------------------" << endl;
         cout << "Insira o sexo do aluno:" << endl;
         cin >> sexo;
+        cout << "-----------------------------------" << endl;
         cout << "Insira o CPF do aluno:" << endl;
         cin >> cpf;
+        cout << "-----------------------------------" << endl;
         cout << "Insira a matrícula do aluno:" << endl;
         cin >> matr;
+        cout << "-----------------------------------" << endl;
         cout << "Informe se o aluno é do fundamental ou ensino médio: " << endl;
         cin >> categoria;
+        cout << "-----------------------------------" << endl;
 
         A.cadastra(idade,cpf,sexo,matr,nome,categoria);
         l1.InsereAluno(A);

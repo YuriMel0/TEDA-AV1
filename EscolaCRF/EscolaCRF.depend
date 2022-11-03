@@ -211,3 +211,70 @@
 	<locale.h>
 	<Menu.h>
 
+1667488497 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\main.cpp
+	<iostream>
+	<string>
+	<Aluno.h>
+	<No.h>
+	<Escola.h>
+	<Pessoa.h>
+	<ListaAlunos.h>
+	<string>
+	<locale.h>
+	<Menu.h>
+
+1667487828 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\aluno.h
+	<Pessoa.h>
+
+1667488365 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\pessoa.h
+	<string>
+
+1667430407 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\no.h
+	"Aluno.h"
+
+1667488497 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\escola.h
+	<ListaAlunos.h>
+
+1667430407 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\listaalunos.h
+	"No.h"
+	<string>
+
+1667430407 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\menu.h
+	<ListaAlunos.h>
+	<Escola.h>
+
+1667430407 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\aluno.cpp
+	"Aluno.h"
+	"Pessoa.h"
+	<iostream>
+
+1667430407 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\dado.cpp
+	"Dado.h"
+
+1667430407 c:\users\meloy\downloads\teda-av1-main\escolacrf\include\dado.h
+	<iostream>
+	<Aluno.h>
+
+1667488497 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\escola.cpp
+	"Escola.h"
+	<iostream>
+	<string>
+	<ListaAlunos.h>
+
+1667430407 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\listaalunos.cpp
+	"ListaAlunos.h"
+	"Aluno.h"
+	<string>
+	<iostream>
+
+1667489146 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<string>
+
+1667430407 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\no.cpp
+	"No.h"
+
+1667430407 source:c:\users\meloy\downloads\teda-av1-main\escolacrf\src\pessoa.cpp
+	"Pessoa.h"
+

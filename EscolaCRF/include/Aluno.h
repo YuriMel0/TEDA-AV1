@@ -23,10 +23,6 @@ class Aluno : public Pessoa
 
     private:
         MATRICULA num_matricula;
-        string nome;
-        int idade;
-        CPF cpf;
-        char sexo;
         string categoria;
 };
 

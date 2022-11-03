@@ -18,7 +18,7 @@ int main()
 
     ListaAlunos l1;
     Escola e1;
-    e1.cadastra(89351784959, l1, "pH");
+    e1.cadastra(89351784959, l1, "EscolaCRF");
 
     Menu m(l1,e1);
 

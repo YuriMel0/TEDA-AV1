@@ -12,10 +12,6 @@ void Escola::cadastra(CNPJ pCNPJ, ListaAlunos l, string pNome)
     nome = pNome;
 }
 
-Escola::~Escola()
-{
-}
-
 void Escola::printDadosEscola()
 {
     cout << "------------------------------------" << endl;

@@ -7,7 +7,6 @@ typedef unsigned long long int CNPJ;
 class Escola
 {
     public:
-        virtual ~Escola();
         void printDadosEscola();
         void cadastra(CNPJ, ListaAlunos, string);
     protected:

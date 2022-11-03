@@ -9,7 +9,13 @@ typedef unsigned long long int CPF;
 class Pessoa
 {
     public:
+
     protected:
+        string nome;
+        int idade;
+        CPF cpf;
+        char sexo;
+
     private:
 
 };
